@@ -1,1 +1,1 @@
-from . import adminla, start_private, t2w
+from . import adminla, start_private, t2w, s2t 

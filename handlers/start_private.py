@@ -10,7 +10,7 @@ async def send_welcome(message: Message):
     text = """
     Assalom alaykum botimizga hush kelibsiz
     /t2w
-    /sthw
+    /S2W
     /help
 """
     await message.reply(text, disable_web_page_preview=True, parse_mode="Html")
